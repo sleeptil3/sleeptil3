@@ -10,8 +10,6 @@
 
 > "If it's all the same, just give me space."
 
-[![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3)](https://github.com/sleeptil3/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptil3&layout=compact)](https://github.com/sleeptil3/github-readme-stats)
+[![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3)](https://github.com/sleeptil3/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptil3&layout=compact)](https://github.com/sleeptil3/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sleeptil3.sleeptil3)
