@@ -1,5 +1,5 @@
 [![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3&theme=radical)](https://github.com/sleeptil3/github-readme-stats) 
-# 👋 Hi, I’m @sleeptil3
+# :computer: Hi, I’m @sleeptil3
 ## aka Shawn Clary
 - I’m interested in ... a lot of things, too many things. But mostly focused on learning as much as I can so I can send stuff and people to space.
 - I’m currently learning ... full-stack development. HTML, CSS, JS, and React in the books, and making quick work of the back end with Django and Node.JS with MongoDB.
