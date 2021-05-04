@@ -1,3 +1,4 @@
+[![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3&theme=radical)](https://github.com/sleeptil3/github-readme-stats) 
 # 👋 Hi, I’m @sleeptil3
 ## aka Shawn Clary
 - I’m interested in ... a lot of things, too many things. But mostly focused on learning as much as I can so I can send stuff and people to space.
@@ -10,6 +11,6 @@
 
 > "If it's all the same, just give me space."
 
-[![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3)](https://github.com/sleeptil3/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptil3&layout=compact)](https://github.com/sleeptil3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptil3&layout=compact&theme=radical)](https://github.com/sleeptil3/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sleeptil3.sleeptil3)
