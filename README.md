@@ -1,4 +1,5 @@
-[![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3&theme=radical)](https://github.com/sleeptil3/github-readme-stats) 
+<img width="2043" alt="Screen Shot 2021-05-04 at 4 37 43 PM" src="https://user-images.githubusercontent.com/26289436/117066747-1ee29f00-acf7-11eb-9526-3419745f368c.png">
+
 # :computer: Hi, I’m @sleeptil3
 ## aka Shawn Clary
 - I’m interested in ... a lot of things, too many things. But mostly focused on learning as much as I can so I can send stuff and people to space.
@@ -10,6 +11,8 @@
 -Shawn
 
 > "If it's all the same, just give me space."
+
+[![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3&theme=radical)](https://github.com/sleeptil3/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptil3&layout=compact&theme=radical)](https://github.com/sleeptil3/github-readme-stats)
 
