@@ -12,7 +12,8 @@
 
 ![pexels-photo-110854](https://user-images.githubusercontent.com/26289436/116491653-5e793900-a868-11eb-94cd-5143fb80ce88.jpg)
 
-<!---
-sleeptil3/sleeptil3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Sleeptil3's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptil3)](https://github.com/sleeptil3/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptil3&layout=compact)](https://github.com/sleeptil3/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sleeptil3.sleeptil3)
