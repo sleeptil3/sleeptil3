@@ -1,11 +1,11 @@
 <img width="2043" alt="Screen Shot 2021-05-04 at 4 37 43 PM" src="https://user-images.githubusercontent.com/26289436/117066747-1ee29f00-acf7-11eb-9526-3419745f368c.png">
 <h2 align="center">Shawn Clary</h2>
-<h3 align="center">A puzzle-loving full-stack developer</h3>
+<h3 align="center">A puzzle-loving, creative full-stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shclary" target="blank"><p>LinkedIn</p></a>
-<a href="https://www.hackerrank.com/sclary" target="blank"><p>HackerRank</p></a>
+<a href="https://linktr.ee/sclary" target="blank"><p>LinkTree</p></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
