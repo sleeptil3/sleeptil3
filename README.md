@@ -1,12 +1,8 @@
-<img width="2043" alt="Screen Shot 2021-05-04 at 4 37 43 PM" src="https://user-images.githubusercontent.com/26289436/117066747-1ee29f00-acf7-11eb-9526-3419745f368c.png">
-<h2 align="center">Shawn Clary</h2>
-<h3 align="center">A puzzle-loving, creative full-stack developer</h3>
-
 ## Featured Repository
 
-### [Euchre Night](https://github.com/sleeptil3/euchre-native)
+### [Euchre Night](https://github.com/sleeptil3/euchre-native) (for iOS)
 
-Now available on the [AppStore](https://apps.apple.com/us/app/euchre-night/id1582666948) for iOS!
+Now available on the [AppStore](https://apps.apple.com/us/app/euchre-night/id1582666948)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
