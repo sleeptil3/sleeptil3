@@ -1,23 +1,14 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 # Featured Repository
 
 ### [Euchre Night](https://github.com/sleeptil3/euchre-native) (for iOS)
 
 Now available on the [AppStore](https://apps.apple.com/us/app/euchre-night/id1582666948)!
 
-<div style={"display: flex"; "justify-content: space-around"; "align-items: "center"}>
-    <div>
 ## Connect with me:
 
 - [LinkedIn](https://linkedin.com/in/shclary)
 
 - [LinkTree](https://linktr.ee/sclary)
-
-    </div>
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="shclary" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shclary?trk=profile-badge">Shawn Clary</a></div>
-
-  <div>
 
 ## Languages and Tools
 
@@ -34,3 +25,4 @@ Now available on the [AppStore](https://apps.apple.com/us/app/euchre-night/id158
 <br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sleeptil3.sleeptil3)
+
